@@ -1,2 +1,3 @@
 # Neuro-Net
-Deep Learning oriented work will be done here
+This project is all about Deep Learning and Neural Network
+
