@@ -5,4 +5,4 @@ Here I have developed an Convolutional Neural Network using Object Oriented Prog
 Cost function used : Sigmoid.
 Gradient Descent : Stochastic Gradient Descend.
 
-This is tested using Iris Dataset and it is giving a prediction performance of 80-90%.
+This is tested using Iris Dataset and it is giving a prediction performance of more than 85% on previously unseen data..
